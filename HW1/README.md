@@ -1,3 +1,5 @@
+**Goal:** Find the Regenerative Organizing Cell in the Frog tail (Figure 1, Panel B (Skin). Describe the data processing protocol that has allowed you to identify it. Find the genes that make this cell different from all other cells and compare this set of genes with the ones from Supplementary Table 3.
+
 # Writeup Requirements:
 
 - **Abstract:** A concise summary of your findings.
